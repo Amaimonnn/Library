@@ -1,0 +1,12 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_0430_043B_0435_0440_0438_044F_005CDesktop_005CMigraDoc_005Csrc_005CBuildAll_002DMigraDoc_002Esln/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_0430_043B_0435_0440_0438_044F_005CDesktop_005CMigraDoc_005Csrc_005CMigraDoc_002ERendering_005CRendering_002EWindows_005CDocumentPreview_002Examl/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_0430_043B_0435_0440_0438_044F_005CDesktop_005CMigraDoc_005Csrc_005CMigraDoc_002ERendering_005CRendering_002EWindows_005CDocumentPreview_002Examl_002Ecs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_0430_043B_0435_0440_0438_044F_005CDesktop_005CMigraDoc_005Csrc_005CMigraDoc_002ERendering_005CRendering_002EWindows_005Cenums_005CZoom_002Ecs/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_0430_043B_0435_0440_0438_044F_005CDesktop_005CPDFsharp_005Csrc_005CBuildAll_002DPdfSharp_002Esln/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CUsers_005C_0412_0430_043B_0435_0440_0438_044F_005CDesktop_005CPDFsharp_005Csrc_005CPdfSharp_005CStrongnameKey_002Esnk/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/AssemblyExplorer/XmlDocument/@EntryValue">&lt;AssemblyExplorer&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\v3.5\System.Core.dll" /&gt;&#xD;
+  &lt;Assembly Path="C:\Windows\Microsoft.NET\Framework\v2.0.50727\System.Data.dll" /&gt;&#xD;
+&lt;/AssemblyExplorer&gt;</s:String></wpf:ResourceDictionary>
